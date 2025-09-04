@@ -19,7 +19,7 @@
     
 6.	Average number of patients by Gender and Total wait time 
 
-6b.      Total number of patients by Race and Total wait time
+ 6b.      Total number of patients by Race and Total wait time
 
 7.	Total number of patients by race and avg wait time 
 
