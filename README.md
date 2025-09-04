@@ -27,4 +27,6 @@
 
 9.	patient Admission Rate 
 
-11.	Admitted vs. Not admitted BY Department_referral 
+11.	Admitted vs. Not admitted BY Department_referral
+
+- <a href=https://github.com/Temitheanalyst1/Hopsital-main-ER-project/blob/main/hospital%20potofolio%20project.docx>SQL query</a>
